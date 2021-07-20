@@ -1,2 +1,3 @@
 # hello-world
-I am nt sure yet.
+I am not sure yet.
+I am learning github now.
